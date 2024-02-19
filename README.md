@@ -5,6 +5,8 @@ the special things of this example is i create thoose serive with just i page. n
 as you can see on screenshoot each service stand is same page, when user click login button
 the application will swipped to login container, also when user click registration button
 the application with swipped to registration container.
+and one cool thing of this example is i create beatifully rotated image background with glass froze effect.
+ 
 
 ## Screenhsoot
 
