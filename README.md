@@ -1,16 +1,16 @@
 # animated_auth_preparation
 
-A new Flutter project.
+A flutter code that contain of authentication services such as login, registration and forgot password.
+the special things of this example is i create thoose serive with just i page. not three.
+as you can see on screenshoot each service stand is same page, when user click login button
+the application will swipped to login container, also when user click registration button
+the application with swipped to registration container.
 
-## Getting Started
+## Screenhsoot
 
-This project is a starting point for a Flutter application.
+![Login Page](screenshoot/login.png)
+![Registration Page](screenshoot/registration.png)
+![Forgot Password Page](screenshoot/forgot_password.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
